@@ -1,0 +1,67 @@
+composita ex DA, ΑΟ cum quadrato ΟΒ, aequare
+quadratum BD. ,
+
+Nam quia B rectus, CA’. b. e. AE' =A13²÷ec².
+Sed AD² = ΒΕ2 -l- EA² -l· 2DE . E.·l; quare si
+pro ΕΜ substituas AB² -l— 130², erit aD² =
+ΠΒ1 -l- 2DE . Ea -l- AB² -Ι- 130². At vero
+ue¹ ΔΓ auu . sn = eu (na ψ aa) :uo
+(DA -Ι- AO). Erpo ΑΠ’ = ΕΙ) (DA -l- ΑΟ) -Ι-
+aB² † 130². Porro idem ΑΠ’ = AB' -i- BD²,
+ergo ΕΙ) (DA-l- AO) -l- ΑΒ2 -l- 130¹ = a13² -Ι- BD‘.
+Commune auser alet relinquetur illic ΕΙ) (ΒΑ -l- ΑΟ)
+-l- 130², bic BD', aequalia, q. e. d.
+
+Problema XIV.
+
+Data diametro Lunae DE et areu incidentiae ΟΒ, cum
+arcu dimidiae morae ΟΒ in eclipsi totali, invenire semidia-
+metrum umbrae Au et latitudinis arcum AB.
+
+constructio: Addatur arcus incidentiae Dc ad arcum dimidiae morae
+ΟΒ, ut liat arcus durationis dimidiae DB, et super DB liat quadratum,
+unde auferatur quadratum super ΒΟ, residuum transformetur in rectangn·¹
+lum latitudine diametri Lunae DE, fiet longitudo aequalis compositae ex'
+DA, AO, seu duplae ipsiusAF semidiametri umbrae: deinde ablata ab AF
+semidiametro Lunae Fa et super ΒΑ vel CA quadrato lacto, exque eo¹
+ablato quadrato ipsius ΟΒ, residuum in formam quadratam redactum la-
+titudinem sortietur AB. arcum latitudinis.
+
+Sit diameter >DE = di‘ W, arcus incidentiae DC = 36‘ 30“. moue
+morae dimidiae ΟΒ = 39' 46⁰. Ergo arcus DB durationis dimidiae 1⁰ lb‘ 16⁰,
+
+brrjus quadratum est 1ο 36’ 52”. sed quadratum morae dimidiae (CB) est 26‘ 22“
+quod aufer 26. 22
+
+——--
+
+1. 10. 30. Ηοο divide per duplum diametri J> (DE)
+i. 3. 28 provenit 66‘ 39⁰ AF.
+Hinc aufer semidiametrum J) 15. 52
+relinquitur ΔΟ -- 50. 47. Cujus quadratum est t2‘ 58⁰
+Hinc aufer quadratum morae dimidiae 26. 22
+
+16’ 36”
+
+at bajus latua ³1⁴ w est latitudo. ⁸)
+
+Problema XV.
+
+Data semidiametro Solis, data stiam semidiametro umbrae
+a priori, b. e. non par parallaxio Solis, data denique paral-
+laxi Lunae, indagare et parallaxin Solis.
+
+anea semidiametros Q et umbrae, asumma auter parallaxiu )‚ re-
+linquitur parallaxis Q. nam per th. ΙΙΙ. semidiametri Q et umbrae sunt
+aequales junctae junctis parallaaibus Q et b.
+
+Problema XVI.
+
+Manentibus ceteris, pro parallaxi vero ) pura data paral-
+laai ) a Q ex observatione eclipsis Θ, eandam parallaxin
+Adde 'semidiametros Q ffuqbqqegqqqrm, asumma aufer parallaaiu
+) a Q, relinquitur duplum parallaxeos Q '). '
+dl*
+
+ 
+
